@@ -111,6 +111,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="dataDTK.cpp" />
+    <ClCompile Include="listcontrollerDTK.cpp" />
+    <ClCompile Include="testermain.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="dataDTK.h" />
+    <ClInclude Include="listcontrollerDKT.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
